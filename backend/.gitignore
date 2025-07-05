@@ -1,0 +1,23 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Environment variable files
+.env
+
+# Model and encoder files
+*.pkl
+
+# Dataset files (optional – ignore if not needed in repo)
+*.csv
+
+# Virtual environment (if any)
+venv/
+env/
+
+# VSCode settings (optional)
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
