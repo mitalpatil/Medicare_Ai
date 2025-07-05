@@ -94,3 +94,9 @@ To develop a centralized and intelligent healthcare platform that:
 cd backend
 npm install
 npx nodemon index.js
+```
+```bash
+cd medicare-frontend
+npm install
+npm run dev
+```
